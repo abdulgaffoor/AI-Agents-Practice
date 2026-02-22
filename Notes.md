@@ -1,0 +1,1 @@
+streamlit run /Users/yaybeedee/Gits/awesome-llm-apps/starter_ai_agents/ai_data_analysis_agent/ai_data_analyst.py
