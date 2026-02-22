@@ -1,12 +1,7 @@
 # 🌟 Awesome LLM Apps
 
-A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from <img src="https://cdn.simpleicons.org/openai"  alt="openai logo" width="25" height="15">**OpenAI** , <img src="https://cdn.simpleicons.org/anthropic"  alt="anthropic logo" width="25" height="15">**Anthropic**, <img src="https://cdn.simpleicons.org/googlegemini"  alt="google logo" width="25" height="18">**Google**, <img src="https://cdn.simpleicons.org/x"  alt="X logo" width="25" height="15">**xAI** and open-source models like <img src="https://cdn.simpleicons.org/alibabacloud"  alt="alibaba logo" width="25" height="15">**Qwen** or  <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15">**Llama** that you can run locally on your computer.
+A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Gemini, and open-source models like Qwen or Llama that you can run locally on your computer.
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
-  </a>
-</p>
 
 ## 🤔 Why Awesome LLM Apps?
 
@@ -14,50 +9,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
 - 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
 
-## 🙏 Thanks to our sponsors
-
-<table align="center" cellpadding="16" cellspacing="12">
-  <tr>
-    <td align="center">
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" title="Tiger Data">
-        <img src="docs/banner/sponsors/tigerdata.png" alt="Tiger Data" width="500">
-      </a>
-      <br>
-      <a href="https://tsdb.co/shubham-gh" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Tiger Data MCP
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" title="Speechmatics">
-        <img src="docs/banner/sponsors/speechmatics.png" alt="Speechmatics" width="500">
-      </a>
-      <br>
-      <a href="https://github.com/speechmatics/speechmatics-academy" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Speechmatics
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" title="Okara">
-        <img src="docs/banner/sponsors/okara.png" alt="Okara" width="500">
-      </a>
-      <br>
-      <a href="https://okara.ai/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Okara AI
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
-      </a>
-      <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Become a Sponsor
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📂 Featured AI Projects
 
@@ -184,14 +135,14 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 ### 🧑‍🏫 AI Agent Framework Crash Course
 
-<img src="https://cdn.simpleicons.org/google"  alt="google logo" width="25" height="15"> [Google ADK Crash Course](ai_agent_framework_crash_course/google_adk_crash_course/)
+[Google ADK Crash Course](ai_agent_framework_crash_course/google_adk_crash_course/)
   - Starter agent; model‑agnostic (OpenAI, Claude)
   - Structured outputs (Pydantic)
   - Tools: built‑in, function, third‑party, MCP tools
   - Memory; callbacks; Plugins
   - Simple multi‑agent; Multi‑agent patterns
 
-<img src="https://cdn.simpleicons.org/openai"  alt="openai logo" width="25" height="15"> [OpenAI Agents SDK Crash Course](ai_agent_framework_crash_course/openai_sdk_crash_course/)
+[OpenAI Agents SDK Crash Course](ai_agent_framework_crash_course/openai_sdk_crash_course/)
   - Starter agent; function calling; structured outputs
   - Tools: built‑in, function, third‑party integrations
   - Memory; callbacks; evaluation
@@ -219,10 +170,5 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-
-### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
