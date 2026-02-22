@@ -1,8 +1,5 @@
 # 🐙 GitHub MCP Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-mcp-github-agent-in-less-than-50-lines-of-code) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A Streamlit application that allows you to explore and analyze GitHub repositories using natural language queries through the Model Context Protocol (MCP).
 
 **✨ Now using the official [GitHub MCP Server](https://github.com/github/github-mcp-server) from GitHub!**
@@ -30,7 +27,7 @@ A Streamlit application that allows you to explore and analyze GitHub repositori
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd mcp-github-agent
    ```
 

@@ -1,8 +1,5 @@
 # 🔍 AI SEO Audit Team
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-seo-audit-team-with-gemini) and learn how to build this AI SEO Audit Team from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 The **AI SEO Audit Team** is an autonomous, multi-agent workflow built with Google ADK. It takes a webpage URL, crawls the live page, researches real-time SERP competition, and produces a polished, prioritized SEO optimization report. The app uses **Firecrawl via MCP (Model Context Protocol)** for accurate page scraping and Google's Gemini 2.5 Flash for analysis and reporting.
 
 ## Features

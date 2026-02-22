@@ -1,10 +1,6 @@
 # 🤝 AI Consultant Agent with Google ADK 
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-consultant-agent-with-gemini-2-5-flash) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A powerful business consultant powered by Google's Agent Development Kit that provides comprehensive market analysis, strategic planning, and actionable business recommendations with real-time web research.
-
 
 ## Features
 
@@ -35,7 +31,7 @@ A powerful business consultant powered by Google's Agent Development Kit that pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd advanced_ai_agents/single_agent_apps
    ```
 

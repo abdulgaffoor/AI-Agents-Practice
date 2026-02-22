@@ -159,7 +159,6 @@ Specialized for report generation:
 - Requires Google Cloud Project setup
 - Supports advanced features like grounding and safety settings
 
-
 ## Example Usage
 
 ### Web Interface
@@ -186,7 +185,6 @@ adk run
    - **Google AI Studio**: Verify your API key is valid and has proper permissions
    - **Vertex AI**: Ensure Google Cloud authentication is set up correctly (`gcloud auth application-default login`)
    - **Project ID**: Verify your Google Cloud Project ID is correct for Vertex AI
-
 
 ## References
 

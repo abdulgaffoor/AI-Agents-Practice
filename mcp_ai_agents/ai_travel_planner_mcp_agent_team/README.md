@@ -36,7 +36,6 @@ A sophisticated Streamlit-based AI travel planning application that creates extr
 - **Buffer Time Planning**: Includes travel time and unexpected delays in scheduling
 - **Multiple Accommodation Options**: Provides 3 accommodation choices with distances from city center
 
-
 ## Setup
 
 ### Requirements
@@ -55,7 +54,7 @@ A sophisticated Streamlit-based AI travel planning application that creates extr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd awesome-llm-apps/mcp_ai_agents/ai_travel_planner_mcp_agent_team
    ```
 

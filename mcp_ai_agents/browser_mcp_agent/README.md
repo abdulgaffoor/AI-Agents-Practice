@@ -27,7 +27,7 @@ A Streamlit application that allows you to browse and interact with websites usi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd mcp_ai_agents/browser_mcp_agent
    ```
 
@@ -48,7 +48,6 @@ A Streamlit application that allows you to browse and interact with websites usi
      ```bash
      export OPENAI_API_KEY=your-openai-api-key
      ```
-
 
 ### Running the App
 

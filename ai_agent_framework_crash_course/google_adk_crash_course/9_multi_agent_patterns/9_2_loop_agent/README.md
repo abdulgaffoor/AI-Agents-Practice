@@ -84,4 +84,3 @@ The `LoopAgent` sequences these sub-agents on every iteration, persisting and up
 - **Shared state** allows complex control signals to accumulate across iterations.
 - **Clean, modular sub-agents** keep the loop logic clear and maintainable.
 
-

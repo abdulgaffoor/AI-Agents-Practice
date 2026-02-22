@@ -1,8 +1,5 @@
 # 🎙️ Customer Support Voice Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-customer-support-voice-agent) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 An OpenAI SDK powered customer support agent application that delivers voice-powered responses to questions about your knowledge base using OpenAI's GPT-4o and TTS capabilities. The system crawls through documentation websites with Firecrawl, processes the content into a searchable knowledge base with Qdrant, and provides both text and voice responses to user queries.
 
 ## Features
@@ -29,7 +26,7 @@ An OpenAI SDK powered customer support agent application that delivers voice-pow
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd awesome-llm-apps/ai_agent_tutorials/ai_voice_agent_openaisdk
    
    # Install dependencies

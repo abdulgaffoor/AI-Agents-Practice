@@ -1,8 +1,5 @@
 # AI Health & Fitness Planner Agent 🏋️‍♂️
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-personal-health-and-fitness-ai-agent-using-google-gemini) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 The **AI Health & Fitness Planner** is a personalized health and fitness Agent powered by Agno AI Agent framework. This app generates tailored dietary and fitness plans based on user inputs such as age, weight, height, activity level, dietary preferences, and fitness goals.
 
 ## Features
@@ -22,7 +19,6 @@ The **AI Health & Fitness Planner** is a personalized health and fitness Agent p
 
 - **Interactive Q&A**: Allows users to ask follow-up questions about their plans.
 
-
 ## Requirements
 
 The application requires the following Python libraries:
@@ -40,7 +36,7 @@ Before anything else, Please get a free Gemini API Key provided by Google AI her
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd advanced_ai_agents/single_agent_apps/ai_health_fitness_agent
    ```
 
@@ -52,5 +48,4 @@ Before anything else, Please get a free Gemini API Key provided by Google AI her
     ```bash
     streamlit run health_agent.py
     ```
-
 

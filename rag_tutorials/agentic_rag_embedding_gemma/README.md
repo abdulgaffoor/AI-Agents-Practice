@@ -1,8 +1,5 @@
 ## 🔥 Agentic RAG with EmbeddingGemma
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-local-agentic-rag-app-with-google-embeddinggemma) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 This Streamlit app demonstrates an agentic Retrieval-Augmented Generation (RAG) Agent using Google's EmbeddingGemma for embeddings and Llama 3.2 as the language model, all running locally via Ollama.
 
 ### Features
@@ -17,7 +14,7 @@ This Streamlit app demonstrates an agentic Retrieval-Augmented Generation (RAG) 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/rag_tutorials/agentic_rag_embedding_gemma
 ```
 

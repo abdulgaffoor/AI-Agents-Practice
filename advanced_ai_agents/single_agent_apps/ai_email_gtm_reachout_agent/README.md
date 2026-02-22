@@ -1,8 +1,5 @@
 # 🚀 AI Email GTM Reachout Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-email-gtm-outreach-agent-team) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 An intelligent, fully automated B2B outreach system that discovers companies, finds decision makers, researches company intelligence, and generates personalized cold emails using AI agents.
 
 ## ✨ Features

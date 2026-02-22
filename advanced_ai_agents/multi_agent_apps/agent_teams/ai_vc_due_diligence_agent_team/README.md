@@ -29,7 +29,7 @@ Given a startup name or URL, the pipeline automatically:
 
 ### 1. Clone & Navigate
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/agent_teams/ai_vc_due_diligence_agent_team
 ```
 
@@ -54,7 +54,6 @@ Open `http://localhost:8000` and try:
 - *"Research Genspark AI for its next funding round"*
 - *"Analyze Lovable for Series C funding opportunities"*
 - *"Research emergent.sh for Series B funding in the $40-60M range"*
-
 
 ## Pipeline Architecture
 

@@ -1,8 +1,5 @@
 # 🎮 AI 3D PyGame Visualizer with DeepSeek R1
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-3d-pygame-visualizer-with-deepseek-r1) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 This Project demonstrates R1's code capabilities with a PyGame code generator and visualizer with browser use. The system uses DeepSeek for reasoning, OpenAI for code extraction, and browser automation agents to visualize the code on Trinket.io.
 
 ### Features
@@ -18,7 +15,7 @@ This Project demonstrates R1's code capabilities with a PyGame code generator an
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/ai_agent_tutorials/ai_3dpygame_r1
 ```
 

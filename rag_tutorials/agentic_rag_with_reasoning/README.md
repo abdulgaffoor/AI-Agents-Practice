@@ -1,10 +1,6 @@
 # 🧐 Agentic RAG with Reasoning
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-agentic-rag-app-with-reasoning) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A sophisticated RAG system that demonstrates an AI agent's step-by-step reasoning process using Agno, Gemini and OpenAI. This implementation allows users to add web sources, ask questions, and observe the agent's thought process in real-time with reasoning capabilities.
-
 
 ## Features
 
@@ -14,17 +10,14 @@ A sophisticated RAG system that demonstrates an AI agent's step-by-step reasonin
 - Persistent vector database storage using LanceDB
 - Session state tracking prevents duplicate URL loading
 
-
 2. Transparent Reasoning Process
 - Real-time display of the agent's thinking steps
 - Side-by-side view of reasoning and final answer
 - Clear visibility into the RAG process
 
-
 3. Advanced RAG Capabilities
 - Vector search using OpenAI embeddings for semantic matching
 - Source attribution with citations
-
 
 ## Agent Configuration
 
@@ -54,7 +47,7 @@ You'll need the following API keys:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+    git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
     cd rag_tutorials/agentic_rag_with_reasoning
     ```
 
@@ -73,7 +66,6 @@ You'll need the following API keys:
 - Enter your Google API key in the first field
 - Enter your OpenAI API key in the second field
 - Both keys are required for the app to function
-
 
 5. **Use the Application:**
 

@@ -41,7 +41,6 @@
   <img src="./assets/framework_en.jpg">
 </p>
 
-
 ## 🔥 Latest News
 - **[May 2025]** 🎉 **EvoAgentX** has been officially released!
 
@@ -171,7 +170,6 @@ response = llm.generate(prompt="What is Agentic Workflow?")
 ```
 > 📖 More details on supported models and config options: [LLM module guide](./docs/modules/llm.md).
 
-
 ## Automatic WorkFlow Generation 
 Once your API key and language model are configured, you can automatically generate and execute multi-agent workflows in EvoAgentX.
 
@@ -203,9 +201,7 @@ You can also:
 
 > 📂 For a complete working example, check out the [`workflow_demo.py`](https://github.com/EvoAgentX/EvoAgentX/blob/main/examples/workflow_demo.py)
 
-
 ## Demo Video
-
 
 [![Watch on YouTube](https://img.shields.io/badge/-Watch%20on%20YouTube-red?logo=youtube&labelColor=grey)](https://www.youtube.com/watch?v=Wu0ZydYDqgg)
 
@@ -219,7 +215,6 @@ In this demo, we showcase the workflow generation and execution capabilities of 
 
 - Application 1: Intelligent Job Recommendation from Resume
 - Application 2: Visual Analysis of A-Share Stocks
-
 
 ### ✨ Final Results
 
@@ -280,7 +275,6 @@ We apply EvoAgentX to optimize their prompts. The performance of the optimized a
 
 > 💡 **New to EvoAgentX?** Start with the [Quickstart Guide](./docs/quickstart.md) for a step-by-step introduction.
 
-
 Explore how to effectively use EvoAgentX with the following resources:
 
 | Cookbook | Description |
@@ -302,8 +296,6 @@ Explore how to effectively use EvoAgentX with the following resources:
 - [ ] **Develop Task Templates and Agent Modules**: Build reusable templates for typical tasks and standardized agent components to streamline application development.
 - [ ] **Integrate Self-Evolving Agent Algorithms**: Incorporate more recent and advanced agent self-evolution across multiple dimensions, including prompt tuning, workflow structures, and memory modules. 
 - [ ] **Enable Visual Workflow Editing Interface**: Provide a visual interface for workflow structure display and editing to improve usability and debugging. 
-
-
 
 ## 🙋 Support
 
@@ -334,7 +326,6 @@ Thanks go to these awesome contributors
 We appreciate your interest in contributing to our open-source initiative. We provide a document of [contributing guidelines](https://github.com/EvoAgentX/EvoAgentX/blob/main/CONTRIBUTING.md) which outlines the steps for contributing to EvoAgentX. Please refer to this guide to ensure smooth collaboration and successful contributions. 🤝🚀
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/EvoAgentX&type=Date)](https://www.star-history.com/#EvoAgentX/EvoAgentX&Date)
-
 
 ## 📚 Acknowledgements 
 This project builds upon several outstanding open-source projects: [AFlow](https://github.com/FoundationAgents/MetaGPT/tree/main/metagpt/ext/aflow), [TextGrad](https://github.com/zou-group/textgrad), [DSPy](https://github.com/stanfordnlp/dspy), [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench), and more. We would like to thank the developers and maintainers of these frameworks for their valuable contributions to the open-source community.

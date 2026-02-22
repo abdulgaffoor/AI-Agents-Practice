@@ -2,13 +2,11 @@
 
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Gemini, and open-source models like Qwen or Llama that you can run locally on your computer.
 
-
 ## 🤔 Why Awesome LLM Apps?
 
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with AI Agents, Agent Teams, MCP & RAG.
 - 🎓 Learn from well-documented projects and contribute to the growing open-source ecosystem of LLM-powered applications.
-
 
 ## 📂 Featured AI Projects
 
@@ -112,7 +110,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [🗄️ Local ChatGPT Clone with Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/local_chatgpt_with_memory/)
 *   [🧠 Multi-LLM Application with Shared Memory](advanced_llm_apps/llm_apps_with_memory_tutorials/multi_llm_memory/)
 
-
 ### 💬 Chat with X Tutorials
 
 *   [💬 Chat with GitHub (GPT & Llama3)](advanced_llm_apps/chat_with_X_tutorials/chat_with_github/)
@@ -131,7 +128,6 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 
 * <img src="https://cdn.simpleicons.org/google"  alt="google logo" width="20" height="15"> [Gemma 3 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/gemma3_finetuning/)
 * <img src="https://cdn.simpleicons.org/meta"  alt="meta logo" width="25" height="15"> [Llama 3.2 Fine-tuning](advanced_llm_apps/llm_finetuning_tutorials/llama3.2_finetuning/)
-
 
 ### 🧑‍🏫 AI Agent Framework Crash Course
 
@@ -154,7 +150,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
+    git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git 
     ```
 
 2. **Navigate to the desired project directory**

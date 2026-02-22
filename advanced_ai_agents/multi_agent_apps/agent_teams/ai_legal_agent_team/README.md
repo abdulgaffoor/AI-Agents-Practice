@@ -1,8 +1,5 @@
 # 👨‍⚖️ AI Legal Agent Team
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-legal-team-run-by-ai-agents) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A Streamlit application that simulates a full-service legal team using multiple AI agents to analyze legal documents and provide comprehensive legal insights. Each agent represents a different legal specialist role, from research and contract analysis to strategic planning, working together to provide thorough legal analysis and recommendations.
 
 ## Features
@@ -28,7 +25,7 @@ A Streamlit application that simulates a full-service legal team using multiple 
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd advanced_ai_agents/multi_agent_apps/agent_teams/ai_legal_agent_team
    
    # Install dependencies

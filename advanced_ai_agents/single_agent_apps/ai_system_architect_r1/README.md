@@ -30,7 +30,7 @@ An Agno agentic system that provides expert software architecture analysis and r
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd advanced_ai_agents/single_agent_apps/ai_system_architect_r1
    
    # Install dependencies
@@ -70,5 +70,4 @@ An Agno agentic system that provides expert software architecture analysis and r
 - Supports chat-based interaction
 - Includes clear reasoning for all architectural decisions
 - API usage costs apply
-
 

@@ -17,7 +17,6 @@ ThinkPath AI revolutionizes how you interact with language models by introducing
   Your browser does not support the video tag.
 </video>
 
-
 ## 🎯 **The Problem We Solve**
 
 ### Before ThinkPath AI:
@@ -246,7 +245,6 @@ We welcome contributions! Here's how you can help:
 - **Electron**: For cross-platform desktop app framework
 - **AI Community**: For advancing open-source language models
 - **Strategic Thinking**: Inspired by consulting methodologies and structured problem-solving
-
 
 ---
 

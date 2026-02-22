@@ -57,7 +57,7 @@ User Goal
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd advanced_ai_agents/single_agent_apps/research_agent_gemini_interaction_api
 ```
 

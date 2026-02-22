@@ -1,7 +1,6 @@
 ## 💻 Local Lllama-3.1 with RAG
 Streamlit app that allows you to chat with any webpage using local Llama-3.1 and Retrieval Augmented Generation (RAG). This app runs entirely on your computer, making it 100% free and without the need for an internet connection.
 
-
 ### Features
 - Input a webpage URL
 - Ask questions about the content of the webpage
@@ -12,7 +11,7 @@ Streamlit app that allows you to chat with any webpage using local Llama-3.1 and
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/rag_tutorials/llama3.1_local_rag
 ```
 2. Install the required dependencies:

@@ -8,7 +8,6 @@ Welcome to **The Magician IA Reader**! This project presents a unique applicatio
 
 This application functions as an AI-driven tarot reader. It takes natural language input and, using an AI model guided by traditional tarot card meanings, provides interpretative insights.
 
-
 **Key Features:**
 
 * **Natural Language Support:** Understands and interacts in natural language (currently configured for English).
@@ -59,7 +58,6 @@ Step into the world where AI meets intuition with The Magician IA Reader!
 python -m venv venv
 source venv/bin/activate
 
-
 # On Windows:
 python -m venv venv
 venv\Scripts\activate
@@ -86,7 +84,6 @@ Input Your Text Data: Use the intuitive interface to paste, type, or upload the 
 Choose if you need 3, 5 or 7 cards for the reading.
 
 Read the Insights: View detailed analytics and visualizations that reveal the meaning of the extracted cards.
-
 
 ## 🤝 Contributing
 Contributions are welcome! If you have improvements or new features to add, please:

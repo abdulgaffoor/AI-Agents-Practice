@@ -50,7 +50,7 @@ This RAG Application demonstrates how to build a powerful Retrieval-Augmented Ge
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd rag_tutorials/qwen_local_rag
 ```
 

@@ -4,9 +4,7 @@ A powerful document Q&A application that leverages Hybrid Search (RAG) and local
 
 ## Demo:
 
-
 https://github.com/user-attachments/assets/375da089-1ab9-4bf4-b6f3-733f44e47403
-
 
 ## Quick Start
 
@@ -62,7 +60,7 @@ These models offer a good balance of performance and resource usage, and have be
 
 3. **Install Dependencies**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd awesome-llm-apps/rag_tutorials/local_hybrid_search_rag
    pip install -r requirements.txt
    ```
@@ -97,7 +95,6 @@ The application supports multiple database backends:
   - Create a free serverless PostgreSQL database at [Neon](https://neon.tech) in a few clicks
   - Get instant provisioning and scale-to-zero capability
   - Connection string format: `postgresql://user:pass@ep-xyz.region.aws.neon.tech/dbname`
-
 
 ## How to Run
 

@@ -1,8 +1,5 @@
 # 📊 AI Data Visualization Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-data-visualization-agent) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A Streamlit application that acts as your personal data visualization expert, powered by LLMs. Simply upload your dataset and ask questions in natural language - the AI agent will analyze your data, generate appropriate visualizations, and provide insights through a combination of charts, statistics, and explanations.
 
 ## Features
@@ -32,7 +29,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd ai_agent_tutorials/ai_data_visualisation_agent
    ```
 2. **Install the dependencies**

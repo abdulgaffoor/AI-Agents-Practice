@@ -2,8 +2,6 @@
 
 **🎓 FREE Step-by-Step Tutorial**
 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-autonomous-rag-app-using-gpt-4o-and-vector-database) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 This Streamlit application implements an Autonomous Retrieval-Augmented Generation (RAG) system using OpenAI's GPT-4o model and PgVector database. It allows users to upload PDF documents, add them to a knowledge base, and query the AI assistant with context from both the knowledge base and web searches.
 Features
 
@@ -18,7 +16,7 @@ Features
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/rag_tutorials/autonomous_rag
 ```
 

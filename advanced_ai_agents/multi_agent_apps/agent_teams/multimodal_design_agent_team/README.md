@@ -1,8 +1,5 @@
 # Multimodal AI Design Agent Team
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-multimodal-ai-agent-design-team) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A Streamlit application that provides comprehensive design analysis using a team of specialized AI agents powered by Google's Gemini model. 
 
 This application leverages multiple specialized AI agents to provide comprehensive analysis of UI/UX designs of your product and your competitors, combining visual understanding, user experience evaluation, and market research insights.
@@ -27,7 +24,7 @@ This application leverages multiple specialized AI agents to provide comprehensi
 1. **Setup Environment**
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_design_agent_team
 
    # Create and activate virtual environment (optional)
@@ -53,7 +50,6 @@ This application leverages multiple specialized AI agents to provide comprehensi
    - Select analysis types and focus areas
    - Add context if needed
    - Click "Run Analysis" to get insights
-
 
 ## Technical Stack
 

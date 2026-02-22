@@ -43,12 +43,11 @@ A RAG Agentic system built with Cohere's new model Command-r7b-12-2024, Qdrant f
    - Qdrant API Key: Found in API Keys section
    - Qdrant URL: Your cluster URL (format: `https://xxx-xxx.aws.cloud.qdrant.io`)
 
-
 ## How to Run
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd rag_tutorials/rag_agent_cohere
 ```
 
@@ -60,5 +59,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run rag_agent_cohere.py
 ```
-
 

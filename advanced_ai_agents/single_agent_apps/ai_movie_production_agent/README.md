@@ -1,8 +1,5 @@
 ## 🎬 AI Movie Production Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-movie-production-agent-with-claude-3-5-sonnet) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 This Streamlit app is an AI-powered movie production assistant that helps bring your movie ideas to life using Claude 3.5 Sonnet model. It automates the process of script writing and casting, allowing you to create compelling movie concepts with ease.
 
 ### Features
@@ -15,7 +12,7 @@ This Streamlit app is an AI-powered movie production assistant that helps bring 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd advanced_ai_agents/single_agent_apps/ai_movie_production_agent
 ```
 2. Install the required dependencies:

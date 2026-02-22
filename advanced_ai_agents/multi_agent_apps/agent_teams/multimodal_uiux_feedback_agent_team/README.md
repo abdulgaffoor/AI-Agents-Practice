@@ -1,8 +1,5 @@
 # 🎨 🍌 Multimodal UI/UX Feedback Agent Team with Nano Banana
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-ai-ui-ux-feedback-agent-team-with-nano-banana) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 A sophisticated multi-agent system built with Google ADK that analyzes landing page designs, provides expert UI/UX feedback, and automatically generates improved versions using Gemini 2.5 Flash's multimodal capabilities.
 
 ## Features
@@ -47,7 +44,7 @@ The system uses a **Coordinator/Dispatcher pattern** with three specialized agen
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/advanced_ai_agents/multi_agent_apps/agent_teams/multimodal_uiux_feedback_agent_team
 ```
 
@@ -101,7 +98,6 @@ Coordinator (Root Agent)
           ├── Design Strategist (improvement planning)
           └── Visual Implementer (generate improved design + report)
 ```
-
 
 ## Best Practices for Users
 

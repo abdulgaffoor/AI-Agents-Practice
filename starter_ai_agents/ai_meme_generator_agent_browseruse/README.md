@@ -28,7 +28,6 @@ The AI Meme Generator Agent is a powerful browser automation tool that creates m
   - Direct meme preview with clickable links
   - Responsive error handling
 
-
 API keys required:
 - **Anthropic** (for Claude)
 - **Deepseek** 
@@ -38,7 +37,7 @@ API keys required:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
    cd ai_agent_tutorials/ai_meme_generator_browseruse
    ```
 2. **Install the dependencies**:

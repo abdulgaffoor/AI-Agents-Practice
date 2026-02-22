@@ -41,5 +41,3 @@ Edit the top of `finetune_gemma3.py`:
 
 Note: 4-bit/8-bit loading requires a CUDA GPU. On Mac (M1/M2), run on CPU/MPS without quantization or use a GPU machine.
 
-
-

@@ -8,12 +8,11 @@ This Streamlit app is an AI-powered chatbot that uses OpenAI's GPT-4o model with
 - Allows users to view their conversation history
 - Provides a user-friendly interface with Streamlit
 
-
 ### How to get Started?
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/llm_apps_with_memory_tutorials/llm_app_personalized_memory
 ```
 

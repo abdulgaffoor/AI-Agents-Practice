@@ -64,7 +64,6 @@ Connect to existing MCP servers:
 - Conduct deep web research with multi-source synthesis
 - Use Standard I/O communication with cloud API integration
 
-
 ## 📁 Project Structure
 
 ```
@@ -192,8 +191,6 @@ toolset = MCPToolset(
 # "Search for recent AI research papers and extract summaries"
 # "Extract product details from this e-commerce page: [URL]"
 ```
-
-
 
 ## 💡 Best Practices
 

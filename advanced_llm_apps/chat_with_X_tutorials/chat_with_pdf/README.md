@@ -1,8 +1,5 @@
 ## 📄 Chat with PDF 
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-an-llm-app-with-rag-using-llama-3-2-running-locally) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
-
 LLM app with RAG to chat with PDF in just 30 lines of Python Code. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of the uploaded PDF.
 
 ### Features
@@ -16,7 +13,7 @@ LLM app with RAG to chat with PDF in just 30 lines of Python Code. The app uses 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/abdulgaffoor/AI-Agents-Practice.git
 cd awesome-llm-apps/chat_with_X_tutorials/chat_with_pdf
 ```
 2. Install the required dependencies
